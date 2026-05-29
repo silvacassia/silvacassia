@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Aprendendo programação na prática, um bug de cada vez  <br>📚 Atualmente estou estudando Java, Python, Git/GitHub, análise de dados e fundamentos de segurança cibernética  <br>🎯 Meu objetivo é desenvolver projetos práticos, melhorar minha lógica de programação e evoluir na área de tecnologia  <br>🎲 Curiosidade: gosto de transformar exercícios e estudos em pequenos projetos para acompanhar minha evolução</p>
+<p align="left">✨ Aprendendo programação na prática, um bug de cada vez  <br>📚 Atualmente estou estudando Java, Python, Git/GitHub, análise de dados e fundamentos de segurança cibernética  <br>🎯 Meu objetivo é desenvolver projetos práticos, melhorar minha lógica de programação e evoluir na área de tecnologia  <br>🎲 Gosto de transformar exercícios e estudos em pequenos projetos para acompanhar minha evolução</p>
 
 ###
 
