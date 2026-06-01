@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" width="28" alt="css logo" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" width="28" alt="html5 logo" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="28" width="28" alt="figma logo" />&nbsp;
-  <img src="https://cdn.simpleicons.org/github/white" height="28" width="28" alt="github logo" />&nbsp;
+  <img src="https://cdn.simpleicons.org/github/black" height="28" width="28" alt="github logo" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" width="28" alt="python logo" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="28" width="28" alt="tailwindcss logo" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" width="28" alt="vscode logo" />
